@@ -1,0 +1,8 @@
+site_name: Boss
+
+nav:
+  - Hodina WA: 'hodina_wa.md'
+  - Maturita PG: 'maturita_pg.md' 
+
+
+theme: windmill-dark
